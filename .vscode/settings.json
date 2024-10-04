@@ -1,0 +1,11 @@
+{  
+    "liveServer.settings.https":   
+    {
+        "enable": true, //set it true to enable the feature.  
+        "cert": "C:\\Program Files\\Git\\usr\\bin\\live-server.crt", //full path of the certificate  
+        "key": "C:\\Program Files\\Git\\usr\\bin\\live-server.key", //full path of the private key  
+        "passphrase": ""  
+    },
+    "liveServer.settings.host": "0.0.0.0",
+    "liveServer.settings.port": 5501
+}
